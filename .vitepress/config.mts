@@ -16,9 +16,28 @@ export default defineConfig({
       {
         text: 'はじめに',
         items: [
-          { text: '参加方法', link: '/how-to-join' },
+          { text: '参加方法', link: '/1/how-to-join' },
+          { text: 'ルール', link: '/1/rule' },
+          { text: '附則', link: '/1/additional-rule' },
         ]
-      }
+      },
+      {
+        text: 'プラグイン',
+        items: [
+          { text: 'プラグインとは', link: '/2/what-is-plugin' },
+          { text: 'mcMMO', link: '/2/mcMMO' },
+          { text: 'TreeAssist', link: '/2/TreeAssist' },
+        ]
+      },
+      {
+        text: 'サーバー概要',
+        items: [
+          { text: 'Earth鯖', link: '/3/life' },
+          { text: 'ライフ鯖', link: '/3/life' },
+          { text: '超鯖', link: '/3/life' },
+          { text: 'サバイバル鯖', link: '/3/life' },
+        ]
+      },
     ],
 
     socialLinks: [

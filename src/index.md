@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: ドキュメントに進む
-      link: /how-to-join
+      link: /1/how-to-join
     - theme: alt
       text: 公式サイト
       link: https://www.nekozouneko.net
