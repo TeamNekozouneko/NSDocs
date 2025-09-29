@@ -59,9 +59,9 @@ export default defineConfig({
               { text: 'パーティー', link: '/2/mcMMO/party' },
             ]
            },
-          { text: 'QuickShop', link: '/2/QuickShop' },
-          { text: 'Jobs', link: '/2/Jobs' },
-          { text: 'Lands', link: '/2/Lands' },
+          { text: 'QuickShop', link: '/2/quickshop' },
+          { text: 'Jobs', link: '/2/jobs' },
+          { text: 'Lands', link: '/2/lands' },
         ]
       },
       {
