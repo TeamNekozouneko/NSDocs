@@ -5,6 +5,12 @@ export default defineConfig({
   title: "Nekozouneko Server",
   description: "Nekozouneko Serverに関する公式ドキュメント",
   srcDir: './src',
+  markdown: {
+    math: true,
+    image: {
+      lazyLoading: true
+    }
+  },
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     logo: '/images/icon-ns.png',
