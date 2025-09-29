@@ -72,6 +72,7 @@ export default defineConfig({
             items: [
               { text: '導入プラグイン', link: '/3/earth/plugins' },
               { text: '遊び方ガイド', link: '/3/earth/guide' },
+              { text: '仕様まとめ', link: '/3/earth/feature' },
               { text: '経済', link: '/3/earth/economy' },
               { text: '戦争', link: '/3/earth/wars' },
             ]
