@@ -61,7 +61,17 @@ export default defineConfig({
            },
           { text: 'QuickShop', link: '/2/quickshop' },
           { text: 'Jobs', link: '/2/jobs' },
-          { text: 'Lands', link: '/2/lands' },
+          { text: 'Lands', link: '/2/lands',
+            collapsed: true,
+            items: [
+              { text: '集団の作り方', link: '/2/lands/make-lands' },
+              { text: '銀行にお金を入れる', link: '/2/lands/using-bank' },
+              { text: '土地を広げる', link: '/2/lands/claim-lands' },
+              { text: 'プレイヤーを招待する', link: '/2/lands/invite-player' },
+              { text: '集団を削除する', link: '/2/lands/delete-lands' },
+            ]
+          },
+          { text: 'HuskHomes', link: '/2/huskhomes' },
         ]
       },
       {

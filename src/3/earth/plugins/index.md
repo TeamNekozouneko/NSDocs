@@ -1,11 +1,11 @@
 # 導入プラグイン
 ::: warning
-(forked)という表記があるプラグインは、機能の追加/調整や、バグの修正を目的として、Nekozouneko Groupにより改造されたバージョンが導入されています。一部の機能においては大元のプラグイン開発者とは一切関係ありません（3rd-party）。また、当グループは大元のライセンスを厳守します。
+<Badge type="warning" text="Forked" />という表記があるプラグインは、機能の追加/調整や、バグの修正を目的として、Nekozouneko Groupにより改造されたバージョンが導入されています。一部の機能においては大元のプラグイン開発者とは一切関係ありません（3rd-party）。また、当グループは大元のライセンスを厳守します。
 :::
 ::: details Lands
 町や国を建てることができるプラグインです。土地の管理機能や戦争機能が標準で搭載されています。
 :::
-:::details mcMMO (forked)
+:::details mcMMO<Badge type="warning" text="Forked" />
 MMORPGのようなレベリングシステムや、スキル、パーティー機能が実装されるプラグインです。
 ::: warning
 下記のスキルはEarth鯖では無効化されています。
@@ -31,7 +31,7 @@ MMORPGのようなレベリングシステムや、スキル、パーティー�
   * ベースポイント: 20 → 2.5
   * ベースEXP: 15.0 → 2.5
 :::
-::: details Bolt (forked)
+::: details Bolt <Badge type="warning" text="Forked" />
 チェストや樽、かまどなどのアイテムを保管できるブロックを保護できるプラグインです。
 :::
 ::: details squaremap
@@ -43,9 +43,9 @@ MMORPGのようなレベリングシステムや、スキル、パーティー�
 ::: details HuskHomes
 ホームコマンドやTPAなどの便利コマンドを追加するプラグインです。
 :::
-::: details BetterRTP (forked)
+::: details BetterRTP <Badge type="warning" text="Forked" />
 ランダムテレポート（/rtp）を追加するプラグインです。
 :::
-::: details TheosisEconomy (forked)
+::: details TheosisEconomy <Badge type="warning" text="Forked" />
 経済機能（/bal, /baltopなど）を実装するプラグインです。
 :::
