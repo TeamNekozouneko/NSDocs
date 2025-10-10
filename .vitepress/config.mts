@@ -64,11 +64,17 @@ export default defineConfig({
           { text: 'Lands', link: '/2/lands',
             collapsed: true,
             items: [
-              { text: '集団の作り方', link: '/2/lands/make-lands' },
-              { text: '銀行にお金を入れる', link: '/2/lands/using-bank' },
-              { text: '土地を広げる', link: '/2/lands/claim-lands' },
-              { text: 'プレイヤーを招待する', link: '/2/lands/invite-player' },
-              { text: '集団を削除する', link: '/2/lands/delete-lands' },
+              { text: '仕様', link: '/2/lands/feature' },
+              { text: 'ガイド',
+                collapsed: true,
+                items: [
+                  { text: '集団の作り方', link: '/2/lands/guide/make-lands' },
+                  { text: '銀行にお金を入れる', link: '/2/lands/guide/using-bank' },
+                  { text: '土地を広げる', link: '/2/lands/guide/claim-lands' },
+                  { text: 'プレイヤーを招待する', link: '/2/lands/guide/invite-player' },
+                  { text: '集団を削除する', link: '/2/lands/guide/delete-lands' },
+                ]
+            },
             ]
           },
           { text: 'HuskHomes', link: '/2/huskhomes' },
@@ -82,7 +88,13 @@ export default defineConfig({
             items: [
               { text: '導入プラグイン', link: '/3/earth/plugins' },
               { text: '遊び方ガイド', link: '/3/earth/guide' },
-              { text: '仕様まとめ', link: '/3/earth/feature' },
+              { text: '仕様まとめ', link: '/3/earth/feature', 
+                collapsed: true,
+                items: [
+                  { text: 'Lands', link: '/3/earth/feature/lands' },
+                  { text: 'Jobs', link: '/3/earth/feature/jobs' },
+                ]
+               },
               { text: '経済', link: '/3/earth/economy' },
               { text: '戦争', link: '/3/earth/wars' },
             ]
