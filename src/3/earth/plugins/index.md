@@ -7,11 +7,6 @@
 :::
 :::details mcMMO<Badge type="warning" text="Forked" />
 MMORPGのようなレベリングシステムや、スキル、パーティー機能が実装されるプラグインです。
-::: warning
-下記のスキルはEarth鯖では無効化されています。
-* Second Smelt（金のみ）
-* Blast Mining
-* Double Drops（金のみ）
 :::
 ::: details QuickShop
 自分だけのショップを建てることができるプラグインです。アイテムを売ってお金を稼ぐことができます。

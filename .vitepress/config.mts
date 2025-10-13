@@ -92,6 +92,7 @@ export default defineConfig({
                 collapsed: true,
                 items: [
                   { text: 'Lands', link: '/3/earth/feature/lands' },
+                  { text: 'mcMMO', link: '/3/earth/feature/mcmmo' },
                   { text: 'Jobs', link: '/3/earth/feature/jobs' },
                 ]
                },
