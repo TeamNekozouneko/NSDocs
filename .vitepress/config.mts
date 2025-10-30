@@ -24,7 +24,19 @@ export default defineConfig({
         items: [
           { text: '参加方法', link: '/1/how-to-join' },
           { text: 'ルール', link: '/1/rule' },
-          { text: '附則', link: '/1/additional-rule' },
+          { text: '附則', link: '/1/additional-rule', 
+            collapsed: true,
+            items: [
+              { text: 'Earth鯖', link: '/1/additional-rule/earth' },
+              { text: 'ライフ鯖', link: '/1/additional-rule/life' },
+              { text: '超鯖', link: '/1/additional-rule/cho' },
+              { text: 'サバイバル鯖', link: '/1/additional-rule/survival' },
+              { text: 'The Mining鯖', link: '/1/additional-rule/the-mining' },
+              { text: 'ANNI鯖', link: '/1/additional-rule/anni' },
+              { text: 'FFAPvP鯖', link: '/1/additional-rule/ffapvp' },
+              { text: 'TNTRUN鯖', link: '/1/additional-rule/tntrun' },
+            ]
+          },
         ]
       },
       {
@@ -64,17 +76,11 @@ export default defineConfig({
           { text: 'Lands', link: '/2/lands',
             collapsed: true,
             items: [
-              { text: '仕様', link: '/2/lands/feature' },
-              { text: 'ガイド',
-                collapsed: true,
-                items: [
-                  { text: '集団の作り方', link: '/2/lands/guide/make-lands' },
-                  { text: '銀行にお金を入れる', link: '/2/lands/guide/using-bank' },
-                  { text: '土地を広げる', link: '/2/lands/guide/claim-lands' },
-                  { text: 'プレイヤーを招待する', link: '/2/lands/guide/invite-player' },
-                  { text: '集団を削除する', link: '/2/lands/guide/delete-lands' },
-                ]
-            },
+              { text: '集団の作り方', link: '/2/lands/make-lands' },
+              { text: '銀行にお金を入れる', link: '/2/lands/using-bank' },
+              { text: '土地を広げる', link: '/2/lands/claim-lands' },
+              { text: 'プレイヤーを招待する', link: '/2/lands/invite-player' },
+              { text: '集団を削除する', link: '/2/lands/delete-lands' },
             ]
           },
           { text: 'HuskHomes', link: '/2/huskhomes' },
