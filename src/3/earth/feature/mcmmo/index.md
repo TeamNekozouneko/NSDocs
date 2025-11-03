@@ -3,3 +3,4 @@
 * Second Smelt（金のみ）
 * Blast Mining
 * Double Drops（金のみ）
+* Magic Hunter
