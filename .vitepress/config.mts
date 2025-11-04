@@ -27,7 +27,7 @@ export default defineConfig({
           { text: '附則', link: '/1/additional-rule', 
             collapsed: true,
             items: [
-              { text: 'Earth', link: '/1/additional-rule/earth' },
+              { text: 'NEarth', link: '/1/additional-rule/nearth' },
               { text: 'ライフ', link: '/1/additional-rule/life' },
               { text: '超', link: '/1/additional-rule/cho' },
               { text: 'サバイバル', link: '/1/additional-rule/survival' },
@@ -89,21 +89,21 @@ export default defineConfig({
       {
         text: 'サーバー概要',
         items: [
-          { text: 'Earth', link: '/3/earth',
+          { text: 'NEarth', link: '/3/nearth',
             collapsed: true,
             items: [
-              { text: '導入プラグイン', link: '/3/earth/plugins' },
-              { text: '遊び方ガイド', link: '/3/earth/guide' },
-              { text: '仕様まとめ', link: '/3/earth/feature', 
+              { text: '導入プラグイン', link: '/3/nearth/plugins' },
+              { text: '遊び方ガイド', link: '/3/nearth/guide' },
+              { text: '仕様まとめ', link: '/3/nearth/feature', 
                 collapsed: true,
                 items: [
-                  { text: 'Lands', link: '/3/earth/feature/lands' },
-                  { text: 'mcMMO', link: '/3/earth/feature/mcmmo' },
-                  { text: 'Jobs', link: '/3/earth/feature/jobs' },
+                  { text: 'Lands', link: '/3/nearth/feature/lands' },
+                  { text: 'mcMMO', link: '/3/nearth/feature/mcmmo' },
+                  { text: 'Jobs', link: '/3/nearth/feature/jobs' },
                 ]
                },
-              { text: '経済', link: '/3/earth/economy' },
-              { text: '戦争', link: '/3/earth/wars' },
+              { text: '経済', link: '/3/nearth/economy' },
+              { text: '戦争', link: '/3/nearth/wars' },
             ]
            },
           { text: 'ライフ', link: '/3/life' },
