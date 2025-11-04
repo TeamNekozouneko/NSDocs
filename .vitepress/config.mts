@@ -27,14 +27,14 @@ export default defineConfig({
           { text: '附則', link: '/1/additional-rule', 
             collapsed: true,
             items: [
-              { text: 'Earth鯖', link: '/1/additional-rule/earth' },
-              { text: 'ライフ鯖', link: '/1/additional-rule/life' },
-              { text: '超鯖', link: '/1/additional-rule/cho' },
-              { text: 'サバイバル鯖', link: '/1/additional-rule/survival' },
-              { text: 'The Mining鯖', link: '/1/additional-rule/the-mining' },
-              { text: 'ANNI鯖', link: '/1/additional-rule/anni' },
-              { text: 'FFAPvP鯖', link: '/1/additional-rule/ffapvp' },
-              { text: 'TNTRUN鯖', link: '/1/additional-rule/tntrun' },
+              { text: 'Earth', link: '/1/additional-rule/earth' },
+              { text: 'ライフ', link: '/1/additional-rule/life' },
+              { text: '超', link: '/1/additional-rule/cho' },
+              { text: 'サバイバル', link: '/1/additional-rule/survival' },
+              { text: 'The Mining', link: '/1/additional-rule/the-mining' },
+              { text: 'ANNI', link: '/1/additional-rule/anni' },
+              { text: 'FFAPvP', link: '/1/additional-rule/ffapvp' },
+              { text: 'TNTRUN', link: '/1/additional-rule/tntrun' },
             ]
           },
         ]
@@ -89,7 +89,7 @@ export default defineConfig({
       {
         text: 'サーバー概要',
         items: [
-          { text: 'Earth鯖', link: '/3/earth',
+          { text: 'Earth', link: '/3/earth',
             collapsed: true,
             items: [
               { text: '導入プラグイン', link: '/3/earth/plugins' },
@@ -106,9 +106,9 @@ export default defineConfig({
               { text: '戦争', link: '/3/earth/wars' },
             ]
            },
-          { text: 'ライフ鯖', link: '/3/life' },
-          { text: '超鯖', link: '/3/cho' },
-          { text: 'サバイバル鯖', link: '/3/survival' },
+          { text: 'ライフ', link: '/3/life' },
+          { text: '超', link: '/3/cho' },
+          { text: 'サバイバル', link: '/3/survival' },
         ]
       },
     ],
