@@ -41,6 +41,31 @@ export default defineConfig({
         ]
       },
       {
+        text: 'サーバー概要',
+        items: [
+          { text: 'NEarth', link: '/3/nearth',
+            collapsed: true,
+            items: [
+              { text: '導入プラグイン', link: '/3/nearth/plugins' },
+              { text: '遊び方ガイド', link: '/3/nearth/guide' },
+              { text: '仕様まとめ', link: '/3/nearth/feature', 
+                collapsed: true,
+                items: [
+                  { text: 'Lands', link: '/3/nearth/feature/lands' },
+                  { text: 'mcMMO', link: '/3/nearth/feature/mcmmo' },
+                  { text: 'Jobs', link: '/3/nearth/feature/jobs' },
+                ]
+               },
+              { text: '経済', link: '/3/nearth/economy' },
+              { text: '戦争', link: '/3/nearth/wars' },
+            ]
+           },
+          { text: 'ライフ', link: '/3/life' },
+          { text: '超', link: '/3/cho' },
+          { text: 'サバイバル', link: '/3/survival' },
+        ]
+      },
+      {
         text: 'プラグイン',
         items: [
           { text: 'プラグインとは', link: '/2/what-is-plugin' },
@@ -85,31 +110,6 @@ export default defineConfig({
             ]
           },
           { text: 'HuskHomes', link: '/2/huskhomes' },
-        ]
-      },
-      {
-        text: 'サーバー概要',
-        items: [
-          { text: 'NEarth', link: '/3/nearth',
-            collapsed: true,
-            items: [
-              { text: '導入プラグイン', link: '/3/nearth/plugins' },
-              { text: '遊び方ガイド', link: '/3/nearth/guide' },
-              { text: '仕様まとめ', link: '/3/nearth/feature', 
-                collapsed: true,
-                items: [
-                  { text: 'Lands', link: '/3/nearth/feature/lands' },
-                  { text: 'mcMMO', link: '/3/nearth/feature/mcmmo' },
-                  { text: 'Jobs', link: '/3/nearth/feature/jobs' },
-                ]
-               },
-              { text: '経済', link: '/3/nearth/economy' },
-              { text: '戦争', link: '/3/nearth/wars' },
-            ]
-           },
-          { text: 'ライフ', link: '/3/life' },
-          { text: '超', link: '/3/cho' },
-          { text: 'サバイバル', link: '/3/survival' },
         ]
       },
     ],
