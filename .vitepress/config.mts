@@ -55,8 +55,7 @@ export default defineConfig({
                   { text: 'mcMMO', link: '/3/nearth/feature/mcmmo' },
                   { text: 'Jobs', link: '/3/nearth/feature/jobs' },
                 ]
-               },
-              { text: '戦争', link: '/3/nearth/wars' },
+               }
             ]
            },
           { text: 'ライフ', link: '/3/life' },
@@ -106,6 +105,7 @@ export default defineConfig({
               { text: '土地を広げる', link: '/2/lands/claim-lands' },
               { text: 'プレイヤーを招待する', link: '/2/lands/invite-player' },
               { text: '集団を削除する', link: '/2/lands/delete-lands' },
+              { text: '戦争する', link: '/2/lands/wars' },
             ]
           },
           { text: 'HuskHomes', link: '/2/huskhomes' },
