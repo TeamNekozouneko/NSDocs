@@ -56,7 +56,6 @@ export default defineConfig({
                   { text: 'Jobs', link: '/3/nearth/feature/jobs' },
                 ]
                },
-              { text: '経済', link: '/3/nearth/economy' },
               { text: '戦争', link: '/3/nearth/wars' },
             ]
            },
