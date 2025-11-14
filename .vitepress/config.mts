@@ -44,7 +44,7 @@ export default defineConfig({
               { text: 'TNTRUN', link: '/1/additional-rule/tntrun' },
             ]
           },
-          { text: 'その他', link: '/1/others', 
+          { text: 'その他', 
             collapsed: true,
             items: [
               { text: '対応方針', link: '/1/others/response-policy' },
