@@ -25,17 +25,31 @@ export default defineConfig({
           { text: 'ルール', link: '/1/rule' },
           { text: '参加方法', link: '/1/how-to-join' },
           { text: '利用規約', link: '/1/terms' },
+          { text: 'プライバシーポリシー', link: '/1/privacy' },
           { text: '附則', link: '/1/additional-rule', 
             collapsed: true,
             items: [
               { text: 'NEarth', link: '/1/additional-rule/nearth' },
-              { text: 'ライフ', link: '/1/additional-rule/life' },
+              { text: 'ライフ', link: '/1/additional-rule/life',
+                collapsed: true,
+                items: [
+                  { text: '禁止MOD一覧', link: '/1/additional-rule/life/denied-mods' },
+                ]
+               },
               { text: '超', link: '/1/additional-rule/cho' },
               { text: 'サバイバル', link: '/1/additional-rule/survival' },
               { text: 'The Mining', link: '/1/additional-rule/the-mining' },
               { text: 'ANNI', link: '/1/additional-rule/anni' },
               { text: 'FFAPvP', link: '/1/additional-rule/ffapvp' },
               { text: 'TNTRUN', link: '/1/additional-rule/tntrun' },
+            ]
+          },
+          { text: 'その他', link: '/1/others', 
+            collapsed: true,
+            items: [
+              { text: '対応方針', link: '/1/others/response-policy' },
+              { text: '使用許可MOD一覧', link: '/1/others/allowed-mods' },
+              { text: '動画投稿ガイドライン', link: '/1/others/upload-guideline' },
             ]
           },
         ]
