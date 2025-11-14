@@ -45,3 +45,39 @@
 |/sethome <ホーム名>|ホームを設定する（5個まで）|
 |/home <ホーム名>|ホームにテレポートする|
 |/delhome <ホーム名>|ホームを削除する|
+
+## アースマップ
+NEarthサーバーは、地球の地理データや気候区分をそのまま再現したワールドを使用しています。
+
+* スケール比：`1:326`
+* サイズ：`-61440, -30720 〜 61440, 25600`
+* クレジット：`EarthMC.org` `0xBit` `GoodrichDev`
+* 画像引用元：[1:326 Earth Map - Ore Distribution](https://earthmc.org/docs/downloads/earth-map#ore-distribution)
+
+### 気候区分
+* 地域によってバイオームが異なります。
+* 南部/北部では寒冷なバイオーム、赤道付近ではより温暖なバイオームが予想されます。
+* 沿岸部と山岳地帯は、降水量と植生に影響を与えます。
+
+![](/images/ore-distribution/climate.png)
+
+### 鉱石分布
+::: warning
+あくまで鉱石分布は、出る確率が高いというものです。分布にない場合でも100%その鉱石が出現しないわけではありません。
+:::
+#### `金鉱石`
+![](/images/ore-distribution/gold-ore.png)
+#### `石炭鉱石`
+![](/images/ore-distribution/coal-ore.png)
+#### `鉄鉱石`
+![](/images/ore-distribution/iron-ore.png)
+#### `銅鉱石`
+![](/images/ore-distribution/copper-ore.png)
+#### `レッドストーン鉱石`
+![](/images/ore-distribution/redstone-ore.png)
+#### `ダイヤモンド鉱石`
+![](/images/ore-distribution/diamond-ore.png)
+#### `古代の残骸`
+![](/images/ore-distribution/ancient-debris.png)
+#### `クォーツ鉱石`
+![](/images/ore-distribution/quartz-ore.png)
