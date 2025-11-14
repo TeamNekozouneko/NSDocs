@@ -65,6 +65,7 @@ export default defineConfig({
               { text: '仕様まとめ', link: '/3/nearth/feature', 
                 collapsed: true,
                 items: [
+                  { text: 'カスタムレシピ', link: '/3/nearth/feature/recipes' },
                   { text: 'Lands', link: '/3/nearth/feature/lands' },
                   { text: 'mcMMO', link: '/3/nearth/feature/mcmmo' },
                   { text: 'Jobs', link: '/3/nearth/feature/jobs' },
