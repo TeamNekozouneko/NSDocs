@@ -22,8 +22,8 @@ export default defineConfig({
       {
         text: 'はじめに',
         items: [
-          { text: 'ルール', link: '/1/rule' },
           { text: '参加方法', link: '/1/how-to-join' },
+          { text: 'ルール', link: '/1/rule' },
           { text: '利用規約', link: '/1/terms' },
           { text: 'プライバシーポリシー', link: '/1/privacy' },
           { text: '附則', link: '/1/additional-rule', 

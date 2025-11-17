@@ -1,6 +1,3 @@
----
-bodyClasses: "japanese-ol"
----
 # Nekozouneko Server 利用規約
 この利用規約（以下「当規約」）はNekozouneko Group（以下「当グループ」）が提供するNekozouneko Server（以下「当サーバー」）でご利用の皆様（以下「プレイヤー」）により良いゲームプレイを提供するため規則、規定、および、条件を定めるものです。プレイヤーの皆様には、当規約に同意いただく必要があります。
 
