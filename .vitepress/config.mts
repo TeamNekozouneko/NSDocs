@@ -81,7 +81,6 @@ export default defineConfig({
       {
         text: 'プラグイン',
         items: [
-          { text: 'プラグインとは', link: '/2/what-is-plugin' },
           { text: 'mcMMO', link: '/2/mcMMO',
             collapsed: true,
             items: [
