@@ -30,18 +30,6 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: 'NEarth', link: '/1/additional-rule/nearth' },
-              { text: 'ライフ', link: '/1/additional-rule/life',
-                collapsed: true,
-                items: [
-                  { text: '禁止MOD一覧', link: '/1/additional-rule/life/denied-mods' },
-                ]
-               },
-              { text: '超', link: '/1/additional-rule/cho' },
-              { text: 'サバイバル', link: '/1/additional-rule/survival' },
-              { text: 'The Mining', link: '/1/additional-rule/the-mining' },
-              { text: 'ANNI', link: '/1/additional-rule/anni' },
-              { text: 'FFAPvP', link: '/1/additional-rule/ffapvp' },
-              { text: 'TNTRUN', link: '/1/additional-rule/tntrun' },
             ]
           },
           { text: 'その他', 
@@ -73,9 +61,6 @@ export default defineConfig({
                }
             ]
            },
-          { text: 'ライフ', link: '/3/life' },
-          { text: '超', link: '/3/cho' },
-          { text: 'サバイバル', link: '/3/survival' },
         ]
       },
       {
