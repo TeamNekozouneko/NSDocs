@@ -10,6 +10,9 @@
 * Reese’s Sodium Options
 * Sodium Extra
 ## シェーダーMOD `次のMODのみ許可`
+::: warning
+ブロックを透過させるものを除きます。
+:::
 * Iris Shaders
 * Optifine付属のシェーダー機能
 ## 暗視機能（FullBright） `次のMODを含む`
@@ -46,7 +49,6 @@
 * Euphoria Patches
 * Extreme sound muffler
 * FastChest
-* Figura
 * FPSDisplay
 * Gamma Utils
 * HD Skins
