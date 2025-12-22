@@ -98,3 +98,5 @@
 ## 備考
 * 当グループに所属のメンバー（運営）は、通常業務の観点から、この一覧に明記されていないMODを使用することがあります。
 * 使用が許可されているかご不明な場合は Nekozouneko Community の Ticket までお越しください。また、新しいMODの許可を希望の際は[専用のフォーム](https://forms.gle/4F4cpJm36DU4hA7s5)にて承ります。
+## 更新履歴
+* `12月22日` SimpleVoiceChatを追加しました。（[`a72e72e`](https://github.com/TeamNekozouneko/NSDocs/commit/a72e72ee234ed1e00dc8678f4bce3d049e3e76e7))
