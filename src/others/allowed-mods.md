@@ -76,6 +76,7 @@
 * Presence Footsteps
 * Shield Fixes
 * Shulker Box Tooltip
+* SimpleVoiceChat
 * Skin Layers 3D
 * Sodium Shadowy Path Blocks
 * Sound Physics Remastered
