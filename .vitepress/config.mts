@@ -26,13 +26,13 @@ export default defineConfig({
           { text: 'ルール', link: '/rule' },
           { text: '利用規約', link: '/terms' },
           { text: 'プライバシーポリシー', link: '/privacy' },
-          { text: '附則', link: '/additional-rule', 
+          { text: '附則', link: '/additional-rule',
             collapsed: true,
             items: [
               { text: 'NEarth', link: '/additional-rule/nearth' },
             ]
           },
-          { text: 'その他', 
+          { text: 'その他',
             collapsed: true,
             items: [
               { text: '対応方針', link: '/others/response-policy' },
@@ -50,7 +50,7 @@ export default defineConfig({
             items: [
               { text: '導入プラグイン', link: '/3/nearth/plugins' },
               { text: '遊び方ガイド', link: '/3/nearth/guide' },
-              { text: '仕様まとめ', link: '/3/nearth/feature', 
+              { text: '仕様まとめ', link: '/3/nearth/feature',
                 collapsed: true,
                 items: [
                   { text: 'カスタムレシピ', link: '/3/nearth/feature/recipes' },
@@ -61,6 +61,13 @@ export default defineConfig({
                }
             ]
            },
+           {
+            text: 'ANNI', link: '/3/anni',
+            collapsed: true,
+            items: [
+              { text: 'コマンド', link: '/3/anni/commands'}
+            ]
+           }
         ]
       },
       {
