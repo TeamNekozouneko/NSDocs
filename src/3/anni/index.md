@@ -1,7 +1,7 @@
 ---
 next:
-    text: コマンド
-    link: /3/anni/commands
+    text: キット
+    link: /3/anni/kits
 ---
 
 # ANNI
