@@ -66,6 +66,7 @@ export default defineConfig({
             text: 'ANNI', link: '/3/anni',
             collapsed: true,
             items: [
+              { text: 'キット', link: '/3/anni/kits'},
               { text: 'コマンド', link: '/3/anni/commands'}
             ]
            }
