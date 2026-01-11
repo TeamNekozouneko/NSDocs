@@ -66,3 +66,5 @@ Nekozouneko Server（以下「当サーバー」といいます。）は、利�
 * 令和七年六月一日　改正
 * 令和七年十月三日　Broccoli Network様提携に伴う改正（公布）
 * 令和七年十月十日　Broccoli Network様提携に伴う改正（施行）
+* 令和八年一月八日　[令和八年一月十二日改正プライバシーポリシー](/articles/revision-privacy-policy-r8-1-12)（公布）
+* 令和八年一月十二日　[令和八年一月十二日改正プライバシーポリシー](/articles/revision-privacy-policy-r8-1-12)（施行）
