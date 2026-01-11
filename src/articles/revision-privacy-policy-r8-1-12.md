@@ -4,10 +4,8 @@
 * 施行日 `令和8年1月12日`
 ## はじめに
 この度、Nekozouneko Server プライバシーポリシーを改正する運びとなりました。より利用目的や利用範囲を明確化したり、表記揺れや誤字についても訂正いたします。
-* [現行のプライバシーポリシー](/privacy)
-* [令和8年1月12日改正プライバシーポリシー](https://r8-1-12-revision-privacy-pol.nsdocs-a2d32c54-bdea-4e05-bba2-f6ad062c6c99.pages.dev/privacy)
 ## 改正内容
-一言一句の改正内容をご覧になりたい場合は、[こちら](https://github.com/TeamNekozouneko/NSDocs/compare/master...R8-1-12-revision-privacy-policy)からご参照いただけます。
+一言一句の改正内容をご覧になりたい場合は、[こちら](https://github.com/TeamNekozouneko/NSDocs/commit/df2b53b10fd18094b205bbf00bd09c340b763c87)からご参照いただけます。
 1. 個人情報及び個人関連情報の定義を訂正いたしました。
     1. 個人情報保護法に基づき、両者の定義関係に不備が生じていたため正しいものに訂正いたしました。
 2. 個人に関する情報全般を「パーソナルデータ」として定義いたしました。
