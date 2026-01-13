@@ -1,4 +1,5 @@
 # アップデート情報（履歴）
+* 令和8年1月14日 [軽量化プロファイルの設定ミスについて(NEarth)](/articles/nearth-fix-optimization-1-14)
 * 令和8年1月11日 [[Update] NEarth v1.2](/articles/nearth-update-r8-1-15)
 * 令和8年1月8日 [プライバシーポリシー改正のお知らせ](/articles/revision-privacy-policy-r8-1-12)
 * 令和7年12月28日 [[Update] 戦争中のブロック破壊及び設置の無効化](/articles/nearth-update-12-28)
