@@ -39,6 +39,7 @@ export default defineConfig({
               { text: '対応方針', link: '/others/response-policy' },
               { text: '使用許可MOD一覧', link: '/others/allowed-mods' },
               { text: '動画投稿ガイドライン', link: '/others/upload-guideline' },
+              { text: '名称利用ガイドライン', link: '/others/name-use-guideline' },
             ]
           },
         ]
