@@ -1,4 +1,5 @@
 # アップデート情報（履歴）
+* 令和8年1月20日 [名称利用ガイドライン制定のお知らせ](/articles/enact-name-use-guideline)
 * 令和8年1月14日 [軽量化プロファイルの設定ミスについて(NEarth)](/articles/nearth-fix-optimization-1-14)
 * 令和8年1月11日 [[Update] NEarth v1.2](/articles/nearth-update-r8-1-15)
 * 令和8年1月8日 [プライバシーポリシー改正のお知らせ](/articles/revision-privacy-policy-r8-1-12)
