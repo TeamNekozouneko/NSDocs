@@ -112,8 +112,7 @@
 
 ### アイテム等の物の貸し借りによるトラブル
 * ダイヤ1つエメラルド2つで取引予定だったが、対価が払われなかった
-<Badge type="danger" text="ロールバック：Nekozouneko Group の対応の範疇を超えているため、運営が介入することはできないため、実施不可" />
-<Badge type="danger" text="処罰：Nekozouneko Group の対応の範疇を超えているため、運営が介入することはできないため、実施不可" />
+<Badge type="danger" text="民事案件のため、運営が介入することはできないため、実施不可" />
 
 ### Nekozouneko Group 管轄外由来のトラブル
 * 自身の持つコミュニティー上で違反したため Nekozouneko Communityでも処罰をしてほしい
