@@ -3,6 +3,23 @@
 この文書は「[Nekozouneko Server 利用規約](/terms)」の附則とします。
 :::
 
+::: tip お知らせ
+この文書は令和8年3月1日に改訂されます。
+
+【 新たに使用可能になるMOD 】
+```
+Essential Mod, Advancements Reloaded, FPS Reducer, Armor Hud, Async Pack Scan, Dynamic Crosshair, Ferrite Core, MoreChatHistory, Longer Chat History, More Culling, Wavey Capes, Sodium, Cull Leaves, Raise Sound Limit Simplified, Concurrent Chunk Management Engine, Notes
+```
+うちFerrite Core及びSodiumについては元々軽量化MODとして以前より使用可能でしたが、皆様によりご理解いただきやすくなるよう今回より明記します。
+
+【 今回の改正よりご利用が禁止されるMOD 】
+```
+Mouse Tweaks, Bobby, Lightweight Inventory Sorting, Inventory Profiles Next
+```
+なお、本ページに載っていないMODについては原則当サーバーでのご利用は禁止されております。詳しい情報については、当サーバー公式Discordをご参照下さい。
+皆様には何卒ご理解とご協力のほどよろしくお願いいたします。
+:::
+
 以下に定めるMODおよび機能は、明示的に当サーバーでの使用が許可されております。
 ## 軽量化MOD `次のMODを含む`
 * OptiFabric
