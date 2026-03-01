@@ -5,12 +5,12 @@
 
 以下に定めるMODおよび機能は、明示的に当サーバーでの使用が許可されております。
 ## 軽量化MOD `次のMODを含む`
+* Ferrite Core
 * OptiFabric
 * OptiFine
 * Reese’s Sodium Options
-* Sodium Extra
 * Sodium
-* Ferrite Core
+* Sodium Extra
 ## シェーダーMOD `次のMODのみ許可`
 ::: warning
 ブロックを透過させるものを除きます。
