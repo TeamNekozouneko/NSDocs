@@ -48,10 +48,10 @@ export default defineConfig({
         text: 'サーバー概要',
         items: [
           {
-            text: 'ロビー', //link: '/3/lobby',
+            text: 'ロビー',
             collapsed: true,
             items: [
-              { text: '寄付特典（Donatai）', link: '/3/lobby/donatai'},
+              { text: '有料ランク特典（Donatai）', link: '/3/lobby/donatai'},
             ]
           },
           { text: 'NEarth', link: '/3/nearth',
