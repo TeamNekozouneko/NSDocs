@@ -47,6 +47,13 @@ export default defineConfig({
       {
         text: 'サーバー概要',
         items: [
+          {
+            text: 'ロビー', //link: '/3/lobby',
+            collapsed: true,
+            items: [
+              { text: '寄付特典（Donatai）', link: '/3/lobby/donatai'},
+            ]
+          },
           { text: 'NEarth', link: '/3/nearth',
             collapsed: true,
             items: [
