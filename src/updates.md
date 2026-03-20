@@ -1,5 +1,6 @@
 # アップデート情報（履歴）
-* 令和8年2月5日 [規約改正のお知らせ及び改正ミスのお詫び](/articles/revision-terms-r8-2-5.md)
+* 令和8年3月19日 [【サバイバル】ライフへの統合について](/articles/merge-survival-r8-3-19)
+* 令和8年2月5日 [規約改正のお知らせ及び改正ミスのお詫び](/articles/revision-terms-r8-2-5)
 * 令和8年1月20日 [名称利用ガイドライン制定のお知らせ](/articles/enact-name-use-guideline)
 * 令和8年1月14日 [軽量化プロファイルの設定ミスについて(NEarth)](/articles/nearth-fix-optimization-1-14)
 * 令和8年1月11日 [[Update] NEarth v1.2](/articles/nearth-update-r8-1-15)
