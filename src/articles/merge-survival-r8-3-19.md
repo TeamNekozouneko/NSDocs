@@ -3,6 +3,10 @@
 * 作成日 `令和8年3月19日`
 * 公布日 `令和8年3月22日`
 
+この記事は、2つの言語に対応しています。
+* [🇯🇵日本語](/articles/merge-survival-r8-3-19)
+* [🇺🇸English](/articles/en-US/merge-survival-r8-3-19)
+
 ## はじめに
 日頃よりNekozouneko Serverをご利用いただき誠にありがとうございます。
 
