@@ -120,6 +120,8 @@ Additionally, when submitting on behalf of someone else, you must obtain permiss
 
 ::: info There are multiple owners within the same building.
 For example, if a house is a single building but has different owners for each room, you can migrate the entire buildings as long as you obtain permission from all parties involved.
+
+However, if your IGN enter does not match the building's owner, your application may be rejected. Please include `(Everyone Agreed)` in the IGN field.
 :::
 
 ## Any Questions
