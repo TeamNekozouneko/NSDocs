@@ -124,6 +124,16 @@ For example, if a house is a single building but has different owners for each r
 However, if your IGN enter does not match the building's owner, your application may be rejected. Please include `(Everyone Agreed)` in the IGN field.
 :::
 
+::: info I want to transfer my building to the underground. Do I need to prepare a similar space on the Life server in advance?
+No, you do not need to prepare the space yourself. When the transferring occurs, the air from the source area is transfered along with the structure.
+:::
+
+::: info I discovered griefing damage after the transferring. Can I get a support(rollback, etc.)?
+Since history data will NOT transferred, it is impossible to do rollback that occurred before the transferring.
+
+Please check for any griefing or damage before submitting your application. There is also a possibility of damage occurring between the time you apply and when the transferring is actually processed, so please ensure your buildings are protected until your application is complete.
+:::
+
 ## Any Questions
 If you have any questions or are having trouble submitting your request, please contact us via [Discord Support Center](https://docs.nekozouneko.net/discord) or email us at `admin@nekozouneko.com`
 
