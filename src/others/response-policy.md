@@ -127,8 +127,8 @@
 
 ### Nekozouneko Groupの許可なく導入した追加機能により生じた不利益
 * 導入したMODのバグで抵抗できずゾンビに殺された
-<Badge type="danger" text="ロールバック：Nekozouneko Group の対応の範疇を超えているため、運営が介入することはできないため、実施不可" />
+<Badge type="danger" text="ロールバック：実施不可" />
 
 ### サブアカウントの保護（チェスト等）を解除したい
 * （備考）建造物撤去の申請は可能
-<Badge type="danger" text="ロールバック：Nekozouneko Group の対応の範疇を超えているため、運営が介入することはできないため、実施不可" />
+<Badge type="danger" text="実施不可" />
