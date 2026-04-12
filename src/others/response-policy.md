@@ -118,7 +118,7 @@
 ### Nekozouneko Group 管轄外由来のトラブル
 * 自身の持つコミュニティー上で違反したため Nekozouneko Communityでも処罰をしてほしい
 * ダイレクトメッセージで個人的に嫌がらせを受けたため処罰してほしい
-<Badge type="danger" text="処罰：Nekozouneko Group の対応の範疇を超えているため、運営が介入することはできないため、実施不可" />
+<Badge type="danger" text="処罰：第十四条第三項事案のため、実施不可" />
 
 ## その他
 ### Nekozouneko Groupの過失により生じた不利益
