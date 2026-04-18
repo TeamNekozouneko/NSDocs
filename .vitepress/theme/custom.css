@@ -1,0 +1,4 @@
+li[id^="Se_"], 
+h2[id^="Se_"] {
+  scroll-margin-top: 160px;
+}

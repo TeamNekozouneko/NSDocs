@@ -1,3 +1,6 @@
+---
+lawAnchor: true
+---
 # Nekozouneko Server 利用規約
 この利用規約（以下「当規約」）は、Nekozouneko Group（以下「当グループ」）が提供するNekozouneko Server（以下「当サーバー」）又は[Nekozouneko Community](/discord)（以下「当コミュニティ」）をご利用の皆様（以下「ユーザー」）により良い利用環境を提供するため規則、規定及び利用条件を定めるものです。
 
