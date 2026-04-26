@@ -134,6 +134,13 @@ Since history data will NOT transferred, it is impossible to do rollback that oc
 Please check for any griefing or damage before submitting your application. There is also a possibility of damage occurring between the time you apply and when the transferring is actually processed, so please ensure your buildings are protected until your application is complete.
 :::
 
+::: info I want to transfer villagers. Will their trades be carried over?
+Yes, it is possible to transfer the villager's trades.
+
+However, if enchanted books are included in the trades, **please make sure to place the lectern associated with that villager nearby and apply for the transfer of the villager and lectern together as a structure.**
+If you do not do this, the enchantments of the enchanted books will not be transferred.
+:::
+
 ## Any Questions
 If you have any questions or are having trouble submitting your request, please contact us via [Discord Support Center](https://docs.nekozouneko.net/discord) or email us at `admin@nekozouneko.com`
 
