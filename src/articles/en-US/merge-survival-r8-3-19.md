@@ -55,11 +55,12 @@ Once the full merge is complete, the Survival server **will be shutdown**. Pleas
 ## Schedule
 * Application acceptance begins: `Sometime on March 22`
 * Application deadline: `May 4 at 12:00 AM`
-* Shutdown date: `May 11 at 12:00 AM`
+* Resubmitting a rejected application deadline: `June 4 at 12:00 AM`
+* Shutdown date: `June 11 at 12:00 AM`
 
 If the migration process is not completed by the scheduled shutdown date, the shutdown will be postponed until all processing is finished.
 ::: warning
-Even though applications are accepted until May 11, do not assume you can submit at the last minute. Your application **may still be rejected**. If you wait until your hamburger is ready, you might not realize it has been rejected and end up unable to complete the migration!
+To be eligible to submit a “reapplication following a rejection,” you must have submitted at least one application by May 4.
 :::
 
 ## How to submit a request for the migration?
