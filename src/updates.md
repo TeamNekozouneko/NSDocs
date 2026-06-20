@@ -1,4 +1,5 @@
 # アップデート情報（履歴）
+* 令和8年6月20日 [利用規約及び対応方針の改正について](/articles/rev-terms-r8-6-20)
 * 令和8年5月4日 [【サバイバル】ライフへの移行の再申請について](/articles/reapply-merge-survival-r8-5-4)
 * 令和8年3月25日 [【NEarth】ショップテレポートの無効化について](/articles/nearth-disable-quickshop-teleport)
 * 令和8年3月22日 [【サバイバル】ライフへの統合について](/articles/merge-survival-r8-3-19)
