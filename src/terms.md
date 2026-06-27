@@ -147,3 +147,5 @@ lawAnchor: true
 * 令和7年11月21日 [改正（公布）](/articles/revision-terms-11-21)
 * 令和7年11月24日 [改正（施行）](/articles/revision-terms-11-21)
 * 令和8年2月5日 [改正（即日施行）](/articles/revision-terms-r8-2-5)
+* 令和8年6月20日 [改正（公布）](/articles/rev-terms-r8-6-20)
+* 令和8年6月27日 [改正（施行）](/articles/rev-terms-r8-6-20)
