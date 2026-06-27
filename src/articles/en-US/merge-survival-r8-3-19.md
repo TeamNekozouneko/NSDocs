@@ -55,11 +55,12 @@ Once the full merge is complete, the Survival server **will be shutdown**. Pleas
 ## Schedule
 * Application acceptance begins: `Sometime on March 22`
 * Application deadline: `May 4 at 12:00 AM`
-* Shutdown date: `May 11 at 12:00 AM`
+* Resubmitting a rejected application deadline: `June 4 at 12:00 AM`
+* Shutdown date: `June 11 at 12:00 AM`
 
 If the migration process is not completed by the scheduled shutdown date, the shutdown will be postponed until all processing is finished.
 ::: warning
-Even though applications are accepted until May 11, do not assume you can submit at the last minute. Your application **may still be rejected**. If you wait until your hamburger is ready, you might not realize it has been rejected and end up unable to complete the migration!
+To be eligible to submit a “reapplication following a rejection,” you must have submitted at least one application by May 4.
 :::
 
 ## How to submit a request for the migration?
@@ -132,6 +133,13 @@ No, you do not need to prepare the space yourself. When the transferring occurs,
 Since history data will NOT transferred, it is impossible to do rollback that occurred before the transferring.
 
 Please check for any griefing or damage before submitting your application. There is also a possibility of damage occurring between the time you apply and when the transferring is actually processed, so please ensure your buildings are protected until your application is complete.
+:::
+
+::: info I want to transfer villagers. Will their trades be carried over?
+Yes, it is possible to transfer the villager's trades.
+
+However, if enchanted books are included in the trades, **please make sure to place the lectern associated with that villager nearby and apply for the transfer of the villager and lectern together as a structure.**
+If you do not do this, the enchantments of the enchanted books will not be transferred.
 :::
 
 ## Any Questions

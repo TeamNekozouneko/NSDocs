@@ -1,5 +1,7 @@
 # アップデート情報（履歴）
-* 令和8年3月25日 [【NEarth】ショップテレポートの無効化について](/articles/nearth-disable-quickshop-teleport.md)
+* 令和8年6月20日 [利用規約及び対応方針の改正について](/articles/rev-terms-r8-6-20)
+* 令和8年5月4日 [【サバイバル】ライフへの移行の再申請について](/articles/reapply-merge-survival-r8-5-4)
+* 令和8年3月25日 [【NEarth】ショップテレポートの無効化について](/articles/nearth-disable-quickshop-teleport)
 * 令和8年3月22日 [【サバイバル】ライフへの統合について](/articles/merge-survival-r8-3-19)
 * 令和8年2月5日 [規約改正のお知らせ及び改正ミスのお詫び](/articles/revision-terms-r8-2-5)
 * 令和8年1月20日 [名称利用ガイドライン制定のお知らせ](/articles/enact-name-use-guideline)

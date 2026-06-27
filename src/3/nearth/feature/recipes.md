@@ -13,7 +13,7 @@ NEarthサーバーは、入手が困難である又は困難になり得るも�
 レシピ：`空色の羊毛` `エンダーパール`
 ![](/images/custom-recipes/prismarine_shard.png)
 ### `プリズマリンのクリスタル`
-レシピ：`空色の羊毛` `ガラス`
+レシピ：`空色のコンクリートパウダー` `ガラス`
 ![](/images/custom-recipes/prismarine_crystals.png)
 ### `スカルクセンサー`
 レシピ：`黒曜石` `エンダーパール` `鉄の感圧版` `コンパレーター`

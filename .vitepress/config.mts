@@ -93,6 +93,7 @@ export default defineConfig({
             collapsed: true,
             items: [
               { text: 'NEarth', link: '/additional-rule/nearth' },
+              { text: 'ロビー', link: '/additional-rule/lobby' },
             ]
           },
           { text: 'その他',
