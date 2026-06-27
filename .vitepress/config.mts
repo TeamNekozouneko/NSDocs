@@ -9,6 +9,69 @@ export default defineConfig({
     math: true,
     image: {
       lazyLoading: true
+    },
+  config: (md) => {
+      let currentSection = 0; 
+      let listCounters: number[] = [];
+
+      md.core.ruler.before('normalize', 'reset_law_counters', (state) => {
+        currentSection = 0;
+        listCounters = [];
+        return true;
+      });
+
+      const defaultHeadingOpen = md.renderer.rules.heading_open || function(tokens, idx, options, env, self) {
+        return self.renderToken(tokens, idx, options);
+      };
+
+      md.renderer.rules.heading_open = function(tokens, idx, options, env, self) {
+        const fm = env.frontmatter || (env.data && env.data.frontmatter);
+        
+        if (fm?.lawAnchor && tokens[idx].tag === 'h2') {
+          currentSection++;
+          listCounters = [];
+          
+          const idIdx = tokens[idx].attrIndex('id');
+          const newId = `Se_${currentSection}`;
+          
+          if (idIdx < 0) {
+            tokens[idx].attrPush(['id', newId]);
+          } else {
+            const attrs = tokens[idx].attrs;
+            if (attrs) {
+              attrs[idIdx][1] = newId;
+            }
+          }
+        }
+        return defaultHeadingOpen(tokens, idx, options, env, self);
+      };
+
+      const defaultListItemOpen = md.renderer.rules.list_item_open || function(tokens, idx, options, env, self) {
+        return self.renderToken(tokens, idx, options);
+      };
+
+      md.renderer.rules.list_item_open = function(tokens, idx, options, env, self) {
+        const fm = env.frontmatter || (env.data && env.data.frontmatter);
+        
+        if (fm?.lawAnchor) {
+          const level = Math.floor(tokens[idx].level / 2);
+
+          if (listCounters[level] === undefined) listCounters[level] = 0;
+          listCounters[level]++;
+          listCounters.splice(level + 1);
+
+          const prefixes = ['Pr', 'It', 'Si']; 
+          let id = `Se_${currentSection}`;
+          
+          listCounters.forEach((count, i) => {
+            const prefix = prefixes[i] || `Lv${i}`;
+            id += `-${prefix}_${count}`;
+          });
+
+          return `<li id="${id}">`;
+        }
+        return defaultListItemOpen(tokens, idx, options, env, self);
+      };
     }
   },
   themeConfig: {
@@ -17,7 +80,6 @@ export default defineConfig({
     nav: [
       { text: 'ホーム', link: '/' }
     ],
-
     sidebar: [
       {
         text: 'はじめに',
